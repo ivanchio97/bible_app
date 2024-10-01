@@ -10,7 +10,7 @@ body{
 }
 .game{
   display: flex;
-  height: 90vh;
+  height: calc(100vh - 50px);
   flex-direction: column;
   justify-content: space-between;
   padding: 40px;
